@@ -1,0 +1,53 @@
+*,
+html {
+    padding:0px ;
+    margin: 0;
+}
+
+
+
+
+.btn-color  {
+    background-color: rgb(236, 195, 141);
+    border-radius: 40px;
+
+}
+.btn-custom {
+    padding: 0px;
+    margin: 15px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    
+}
+
+
+/* Modify the background color */
+         
+.navbar-custom {
+    background-color: rgb(175, 132, 80);
+    padding: 0;
+    margin: 0 ;
+        }
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {   
+    color: rgb(0, 0, 0);
+        }
+/* dend custom color */
+
+.card-bg {
+   background-color:rgb(175, 132, 80);
+}
+.card-bg2 {
+    background-color:rgb(236, 195, 141);
+}
+
+.card-margin {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.btn-home {
+    background-color:rgb(236, 195, 141);
+    
+}
